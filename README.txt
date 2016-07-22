@@ -1,45 +1,33 @@
-Prologue by HTML5 UP
-html5up.net | @n33co
+Phantom by HTML5 UP
+html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
+image tiles (of which you can have as many or as few as you like). Makes use of some
+SVG and animation techniques I've been experimenting with on that other project of mine
+you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-http://ineedchemicalx.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
-
-(* = Not included)
+(* = not included)
 
 AJ
-n33.co @n33co dribbble.com/n33
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+aj@lkn.io | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
 		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-	Other
+	Other:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
+		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
-		jquery.scrolly (n33.co)
-		jquery.scrollzer (n33.co)
 		Skel (skel.io)
